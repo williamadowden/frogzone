@@ -1,4 +1,4 @@
-baseURL = 'https://frogzone.neocities.com'
+baseURL = 'https://frogzone.neocities.com/'
 languageCode = 'en-us'
 title = 'frogzone'
 theme = "frogzone"
