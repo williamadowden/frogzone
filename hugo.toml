@@ -1,3 +1,16 @@
 baseURL = 'https://frogzone.neocities.com'
 languageCode = 'en-us'
 title = 'frogzone'
+theme = "frogzone"
+baseurl = ""
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+MetaDataFormat = "toml"
+[indexes]
+    category = "categories"
+    tag = "tags"
+[author]
+    name = "willy dowden"
+uglyURLs = true
