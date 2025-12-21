@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on frogzone</title>
-    <link>https://frogzone.neocities.org/tags/</link>
+    <link>https://frogzone.neocities.org/tags/index.html</link>
     <description>Recent content in Tags on frogzone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,23 +10,23 @@
     <atom:link href="https://frogzone.neocities.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blue</title>
-      <link>https://frogzone.neocities.org/tags/blue/</link>
+      <link>https://frogzone.neocities.org/tags/blue.html</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://frogzone.neocities.org/tags/blue/</guid>
+      <guid>https://frogzone.neocities.org/tags/blue.html</guid>
       <description></description>
     </item>
     <item>
       <title>Green</title>
-      <link>https://frogzone.neocities.org/tags/green/</link>
+      <link>https://frogzone.neocities.org/tags/green.html</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://frogzone.neocities.org/tags/green/</guid>
+      <guid>https://frogzone.neocities.org/tags/green.html</guid>
       <description></description>
     </item>
     <item>
       <title>Red</title>
-      <link>https://frogzone.neocities.org/tags/red/</link>
+      <link>https://frogzone.neocities.org/tags/red.html</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://frogzone.neocities.org/tags/red/</guid>
+      <guid>https://frogzone.neocities.org/tags/red.html</guid>
       <description></description>
     </item>
   </channel>
