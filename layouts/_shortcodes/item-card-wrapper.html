@@ -1,0 +1,5 @@
+{{ range (.Get "columns") }}
+    <p>{{ . }}</p>
+{{ else }}
+    <p>Empty</p>
+{{ end }}
