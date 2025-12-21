@@ -5,8 +5,9 @@ body {
   font-family: "DM Mono", monospace;
   line-height: 1.5;
   margin: 1rem;
-  display: flex;
-  justify-content: center;
+  /*display: flex;*/
+  /*justify-content: center;*/
+  background-image: url("/img/bg.jpg");
 }
 
 header {
@@ -21,16 +22,23 @@ footer {
 }
 
 a {
-  color: #00e;
+  color: #007316;
   text-decoration: underline;
 }
 
 #page-wrapper {
   max-width: 700px;
   min-width: 300px;
-  flex-wrap: wrap;
-  padding: 10px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border: black 3px solid;
+}
 
+header h1 {
+  margin: 0;
+  padding: 0;
+  text-align: right;
 }
 
 #nav {
@@ -43,12 +51,13 @@ a {
   flex-wrap: wrap;
   justify-content: center;
   list-style: none;
-  padding: 0;
-  gap: 10px;
+  padding: 10px;
+  gap: 5px;
+  margin: 0
 }
 
 #nav ul li {
-  padding-bottom: 15px;
+  padding: 15px 0 15px 0;
 }
 
 #nav ul li a{
