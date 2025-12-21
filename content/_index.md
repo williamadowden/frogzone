@@ -54,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {{< fz-row >}}
 
 {{< fz-col>}}
-lorem ipsum
+site was created on Dec 20, 2025
 {{< /fz-col >}}
 
 {{< /fz-row >}}

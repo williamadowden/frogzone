@@ -7,6 +7,9 @@ publishdir = "public"
 MetaDataFormat = "toml"
 uglyURLs = true
 
+[params]
+site-creation-date = 2025-12-20
+
 [security]
 enableInlineShortcodes = true
 
