@@ -25,8 +25,12 @@
     ],
     "classes": [
       "active",
-      "ancestor"
+      "ancestor",
+      "wrapper"
     ],
-    "ids": null
+    "ids": [
+      "frogzone-logo",
+      "nav"
+    ]
   }
 }

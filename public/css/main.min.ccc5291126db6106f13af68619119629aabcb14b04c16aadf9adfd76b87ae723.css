@@ -1,0 +1,4 @@
+@import 'https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap';@property --dm-mono{inherits: false;
+  initial-value: 'DM Mono';
+  syntax: '<string>';
+}body{color:#222;font-family:--dm-mono,monospace;line-height:1.5;margin:1rem;max-width:768px}header{border-bottom:1px solid #222;margin-bottom:1rem}footer{border-top:1px solid #222;margin-top:1rem}a{color:#00e;text-decoration:underline}
