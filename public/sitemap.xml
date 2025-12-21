@@ -2,33 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frogzone.neocities.org/tags/blue/</loc>
+    <loc>https://frogzone.neocities.org/about/index.html</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frogzone.neocities.org/contact/index.html</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frogzone.neocities.org/links/index.html</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frogzone.neocities.org/music/index.html</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frogzone.neocities.org/writing/index.html</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frogzone.neocities.org/tags/blue.html</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://frogzone.neocities.org/tags/green/</loc>
+    <loc>https://frogzone.neocities.org/tags/green.html</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://frogzone.neocities.org/posts/post-3/</loc>
+    <loc>https://frogzone.neocities.org/blog/post-3.html</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://frogzone.neocities.org/tags/red/</loc>
+    <loc>https://frogzone.neocities.org/tags/red.html</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://frogzone.neocities.org/tags/</loc>
+    <loc>https://frogzone.neocities.org/tags/index.html</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://frogzone.neocities.org/posts/post-2/</loc>
+    <loc>https://frogzone.neocities.org/blog/post-2.html</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://frogzone.neocities.org/posts/post-1/</loc>
+    <loc>https://frogzone.neocities.org/blog/post-1.html</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://frogzone.neocities.org/posts/</loc>
+    <loc>https://frogzone.neocities.org/blog/index.html</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>https://frogzone.neocities.org/</loc>
+    <loc>https://frogzone.neocities.org/index.html</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://frogzone.neocities.org/categories/</loc>
+    <loc>https://frogzone.neocities.org/categories/index.html</loc>
   </url>
 </urlset>
