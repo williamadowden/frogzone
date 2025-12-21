@@ -6,4 +6,3 @@ draft = false
 
 About page
 
-{{ < card title="welcome" > }}
