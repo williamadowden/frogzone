@@ -1,0 +1,3 @@
+{{ define "main" }}
+  <p>On {{ .Date | time.Format ":date_medium" }}, I was in {{ .Page.Params.Location }} </p>
+{{ end }}

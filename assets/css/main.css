@@ -5,7 +5,8 @@ body {
   font-family: "DM Mono", monospace;
   line-height: 1.5;
   margin: 1rem;
-  max-width: 768px;
+  display: flex;
+  justify-content: center;
 }
 
 header {
@@ -24,6 +25,13 @@ a {
   text-decoration: underline;
 }
 
+#page-wrapper {
+  max-width: 700px;
+  min-width: 300px;
+  flex-wrap: wrap;
+  padding: 10px;
+
+}
 
 #nav {
 
@@ -31,9 +39,16 @@ a {
 
 #nav ul {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
   list-style: none;
   padding: 0;
   gap: 10px;
+}
+
+#nav ul li {
+  padding-bottom: 15px;
 }
 
 #nav ul li a{

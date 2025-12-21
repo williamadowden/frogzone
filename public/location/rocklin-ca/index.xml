@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rocklin, CA on frogzone</title>
+    <link>http://localhost:1313/location/rocklin-ca.html</link>
+    <description>Recent content in Rocklin, CA on frogzone</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/location/rocklin-ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025-12-20</title>
+      <link>http://localhost:1313/travelogue/2025/2025-12-20.html</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travelogue/2025/2025-12-20.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

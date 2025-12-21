@@ -4,6 +4,7 @@
       "a",
       "body",
       "div",
+      "em",
       "footer",
       "h1",
       "h2",
@@ -16,6 +17,7 @@
       "main",
       "meta",
       "nav",
+      "ol",
       "p",
       "script",
       "section",
@@ -29,8 +31,13 @@
       "wrapper"
     ],
     "ids": [
+      "about",
+      "blog-vs-travelogue",
       "frogzone-logo",
-      "nav"
+      "nav",
+      "page-wrapper",
+      "todo-list",
+      "welcome-to-frogzone"
     ]
   }
 }
