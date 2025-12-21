@@ -15,7 +15,6 @@ check back soon
 3. fun doo-dads (links, guestbook, spotify integration or sumn)
 
 {{< fz-row title="test row">}}
-
 {{< fz-col title="test col title">}}
 test1 test1
 {{< /fz-col >}}
@@ -33,13 +32,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {{< /fz-col >}}
-
 {{< /fz-row >}}
 
 {{< fz-row title="test row 2">}}
-
 {{< fz-col title="test col title">}}
-test1 test1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {{< /fz-col >}}
 {{< fz-col title="test col title">}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -47,14 +44,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
 {{< /fz-col >}}
-
 {{< /fz-row >}}
 
 
 {{< fz-row >}}
-
 {{< fz-col>}}
 site was created on Dec 20, 2025
 {{< /fz-col >}}
-
 {{< /fz-row >}}
