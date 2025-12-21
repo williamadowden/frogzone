@@ -8,9 +8,11 @@
       "footer",
       "h1",
       "h2",
+      "h3",
       "head",
       "header",
       "html",
+      "iframe",
       "img",
       "li",
       "link",
@@ -21,6 +23,7 @@
       "p",
       "script",
       "section",
+      "span",
       "time",
       "title",
       "ul"
@@ -28,14 +31,24 @@
     "classes": [
       "active",
       "ancestor",
+      "fz-col",
+      "fz-col-content",
+      "fz-col-title",
+      "fz-col-wrapper",
+      "fz-row",
+      "fz-row-title",
+      "fz-row-wrapper",
       "wrapper"
     ],
     "ids": [
       "about",
       "blog-vs-travelogue",
       "frogzone-logo",
+      "guestbook-iframe",
       "nav",
       "page-wrapper",
+      "test-test",
+      "todo",
       "todo-list",
       "welcome-to-frogzone"
     ]

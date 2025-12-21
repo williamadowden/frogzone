@@ -7,6 +7,12 @@ publishdir = "public"
 MetaDataFormat = "toml"
 uglyURLs = true
 
+[security]
+enableInlineShortcodes = true
+
+[markup.goldmark.renderer]
+unsafe = false
+
 [indexes]
     category = "categories"
     tag = "tags"
@@ -21,6 +27,7 @@ min = '0.146.0'
 
 [build]
 writeStats = true
+
 [build.processing.css]
 enable = true
 filetype = "scss"
@@ -63,6 +70,6 @@ pageRef = '/travelogue/'
 weight = 3
 
 [[menus.main]]
-name = 'contact'
-pageRef = '/contact/'
+name = 'guestbook'
+pageRef = '/guestbook/'
 weight = 8

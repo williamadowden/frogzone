@@ -8,4 +8,4 @@ layout = 'about'
 ## about
 i am a 20-something in nyc figuring out how much to divulge
 
-[//]: # ({{< item-card-wrapper columns=15 >}})
+yooooo

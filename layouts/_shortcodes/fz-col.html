@@ -1,0 +1,12 @@
+<div class="fz-col-wrapper">
+    <div class="fz-col">
+        {{ if .Get "title" }}
+        <div class="fz-col-title">
+            {{ .Get "title" }}
+        </div>
+        {{ end }}
+        <span class="fz-col-content">
+            {{ .Inner }}
+        </span>
+    </div>
+</div>

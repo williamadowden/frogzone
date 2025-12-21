@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on frogzone</title>
-    <link>http://localhost:1313/blog/index.html</link>
+    <link>https://frogzone.neocities.org/blog/index.html</link>
     <description>Recent content in blog on frogzone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://frogzone.neocities.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>post template</title>
-      <link>http://localhost:1313/blog/posts/post_template.html</link>
+      <link>https://frogzone.neocities.org/blog/posts/post_template.html</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/post_template.html</guid>
+      <guid>https://frogzone.neocities.org/blog/posts/post_template.html</guid>
       <description>&lt;p&gt;blog post template with future compatability to be included in travelogue&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 1</title>
-      <link>http://localhost:1313/blog/default-posts/post-1.html</link>
+      <link>https://frogzone.neocities.org/blog/default-posts/post-1.html</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/blog/default-posts/post-1.html</guid>
+      <guid>https://frogzone.neocities.org/blog/default-posts/post-1.html</guid>
       <description>&lt;p&gt;test test test post 1&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,0 +1,8 @@
+{{ define "main" }}
+    <iframe style="display: none" id="guestbook-iframe" src="https://frogzone.atabook.org/"></iframe>
+    <script>
+        let guestbook = window.open( "https://frogzone.atabook.org/");
+    </script>
+    <div id="test-test"></div>
+    {{ .Content }}
+{{ end }}
