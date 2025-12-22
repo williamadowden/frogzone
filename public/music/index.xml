@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music on frogzone</title>
-    <link>https://frogzone.neocities.org/music/index.html</link>
+    <link>http://localhost:1313/music/index.html</link>
     <description>Recent content in music on frogzone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://frogzone.neocities.org/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/music/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

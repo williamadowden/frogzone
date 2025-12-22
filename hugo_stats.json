@@ -4,15 +4,12 @@
       "a",
       "body",
       "div",
-      "em",
       "footer",
       "h1",
       "h2",
-      "h3",
       "head",
       "header",
       "html",
-      "iframe",
       "img",
       "li",
       "link",
@@ -22,7 +19,7 @@
       "ol",
       "p",
       "script",
-      "section",
+      "span",
       "time",
       "title",
       "ul"
@@ -33,23 +30,23 @@
       "fz-col",
       "fz-col-content",
       "fz-col-title",
+      "fz-col-title-date",
+      "fz-col-title-wrapper",
       "fz-col-wrapper",
       "fz-row",
-      "fz-row-title",
       "fz-row-wrapper",
+      "page-title",
+      "post-terms",
+      "post-terms-label",
+      "post-terms-list",
       "wrapper"
     ],
     "ids": [
-      "about",
-      "blog-vs-travelogue",
       "frogzone-logo",
-      "guestbook-iframe",
+      "fz-logo",
       "nav",
       "page-wrapper",
-      "test-test",
-      "todo",
-      "todo-list",
-      "welcome-to-frogzone"
+      "todo-list"
     ]
   }
 }

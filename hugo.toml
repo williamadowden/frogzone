@@ -6,6 +6,7 @@ layoutdir = "layouts"
 publishdir = "public"
 MetaDataFormat = "toml"
 uglyURLs = true
+summaryLength = 10
 
 [params]
 site-creation-date = 2025-12-20
@@ -14,7 +15,7 @@ site-creation-date = 2025-12-20
 enableInlineShortcodes = true
 
 [markup.goldmark.renderer]
-unsafe = false
+unsafe = true
 
 [indexes]
     category = "categories"
@@ -40,39 +41,44 @@ filetype = "scss"
 [[menus.main]]
 name = 'home'
 pageRef = '/'
-weight = 1
+weight = -1
 
 [[menus.main]]
 name = 'blog'
 pageRef = '/blog/'
-weight = 2
+weight = 10
 
 [[menus.main]]
 name = 'music'
 pageRef = '/music/'
-weight = 4
+weight = 20
 
 [[menus.main]]
 name = 'writing'
 pageRef = '/writing/'
-weight = 5
+weight = 21
+
+[[menus.main]]
+name = 'food'
+pageRef = '/food/'
+weight = 22
 
 [[menus.main]]
 name = 'links'
 pageRef = '/links/'
-weight = 6
+weight = 30
 
 [[menus.main]]
 name = 'about'
 pageRef = '/about/'
-weight = 7
+weight = 31
 
 [[menus.main]]
 name = "travelogue"
 pageRef = '/travelogue/'
-weight = 3
+weight = 11
 
 [[menus.main]]
 name = 'guestbook'
 pageRef = '/guestbook/'
-weight = 8
+weight = 32

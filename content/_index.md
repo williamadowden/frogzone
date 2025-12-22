@@ -3,52 +3,33 @@ title = 'welcome to frogzone'
 date = 2023-01-01T08:00:00-07:00
 draft = false
 +++
+{{< fz-row >}}
+{{% fz-col title="who?"%}}
+my name is willy, a mid-20s guy based in nyc who loves music, writing, food, coding...
 
-## welcome to frogzone
-this is my corner of the internet. a work in progress.
+more info [HERE](/about/)
+{{% /fz-col %}}
+    
+{{< fz-col title="what?">}}
+this is a place for little projects, bits of writing, photos, stories from the road, recipes, and whatever else seemes enjoyable
+{{< /fz-col >}}
+    
+{{< fz-col title="why?">}}
+the internet as we know it today is awful and i want to rekindle the love i had for it when i was younger
+{{< /fz-col >}}
+{{< /fz-row >}}
 
-check back soon
-
-### TODO
+{{< fz-row >}}
+{{% fz-col title="todo list" %}}
 1. row/column based block system (WIP)
 2. content
 3. fun doo-dads (links, guestbook, spotify integration or sumn)
+{{% /fz-col %}}
 
-{{< fz-row title="test row">}}
-{{< fz-col title="test col title">}}
-test1 test1
-{{< /fz-col >}}
-    
-{{< fz-col title="test col title">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-{{< /fz-col >}}
-    
-{{< fz-col title="test col title">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-{{< /fz-col >}}
-{{< /fz-row >}}
+{{% fz-col title="recent updates" %}}
+2025-12-20: site created
 
-{{< fz-row title="test row 2">}}
-{{< fz-col title="test col title">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-{{< /fz-col >}}
-{{< fz-col title="test col title">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-{{< /fz-col >}}
-{{< /fz-row >}}
+2025-12-21: built row/column system, formatting ideas
+{{% /fz-col %}}
 
-
-{{< fz-row >}}
-{{< fz-col>}}
-site was created on Dec 20, 2025
-{{< /fz-col >}}
 {{< /fz-row >}}

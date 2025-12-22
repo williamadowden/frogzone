@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Template on frogzone</title>
-    <link>https://frogzone.neocities.org/tags/template.html</link>
+    <link>http://localhost:1313/tags/template.html</link>
     <description>Recent content in Template on frogzone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://frogzone.neocities.org/tags/template/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>post template</title>
-      <link>https://frogzone.neocities.org/blog/posts/post_template.html</link>
-      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://frogzone.neocities.org/blog/posts/post_template.html</guid>
-      <description>&lt;p&gt;blog post template with future compatability to be included in travelogue&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/template/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

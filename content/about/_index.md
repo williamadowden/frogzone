@@ -5,7 +5,4 @@ draft = false
 layout = 'about'
 +++
 
-## about
-i am a 20-something in nyc figuring out how much to divulge
-
-yooooo
+TBD

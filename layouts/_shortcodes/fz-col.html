@@ -1,7 +1,11 @@
-<div class="fz-col-wrapper">
+<div class="fz-col-wrapper"
+     {{ if .Get "width" }}
+     style="width: {{ .Get "width" }} !important;"
+     {{ end }}
+>
     <div class="fz-col">
         {{ if .Get "title" }}
-        <div class="fz-col-title">
+        <div class="fz-col-title-wrapper">
             {{ .Get "title" }}
         </div>
         {{ end }}

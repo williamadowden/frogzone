@@ -1,8 +1,8 @@
 +++
-title = 'post template'
+title = 'blog 2'
 date = 2025-12-21
 draft = false
-tags = ['template']
+tags = ['travelogue', 'rocklin']
 
 [build]
 list = true
@@ -15,4 +15,5 @@ country = "usa"
 travelogue = true
 +++
 
-blog post template with future compatability to be included in travelogue
+seeing how this looks with multiple posts
+maybe need pages?
