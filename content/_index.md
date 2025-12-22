@@ -20,15 +20,22 @@ nostalgia is a hell of a drug when the world feels like its crumbling a little b
 {{< fz-row >}}
 {{% fz-col title="todo list" %}}
 1. first proper blog post
+2. update links and about pages
 2. build guestbook
-3. get travelogue built
+3. build travelogue function
+4. build chatbox (where to put it?)
 4. utilize tags to organize recipes, writing, etc??
+5. make uls more interesting
+6. more ideas to be logged [here](/ideas/)
+7. sidebar??
 {{% /fz-col %}}
 
-{{% fz-col title="recent updates" %}}
-2025-12-20: site created
+{{% fz-col title="recent updates" width="200px" %}}
+**2025-12-22:** small tweaks. added fixed-height scrollable boxes.
 
-2025-12-21: built row/column system, formatting ideas
+**2025-12-21:** built row/column system, formatting ideas
+
+**2025-12-20:** site created
 {{% /fz-col %}}
 
 {{< /fz-row >}}

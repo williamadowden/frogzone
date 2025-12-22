@@ -18,11 +18,11 @@ enableInlineShortcodes = true
 unsafe = true
 
 [indexes]
-    category = "categories"
-    tag = "tags"
+category = "categories"
+tag = "tags"
 
 [author]
-    name = "willy"
+name = "willy"
 
 [module]
 [module.hugoVersion]

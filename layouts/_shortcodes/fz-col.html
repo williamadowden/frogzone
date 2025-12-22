@@ -9,8 +9,14 @@
             {{ .Get "title" }}
         </div>
         {{ end }}
-        <div class="fz-col-content">
-            {{ .Inner }}
+        <div class="fz-col-content-wrapper"
+             {{ if .Get "height" }}
+             style="height: {{ .Get "height" }} !important; overflow: auto;"
+             {{ end }}
+        >
+            <div class="fz-col-content">
+                {{ .Inner }}
+            </div>
         </div>
     </div>
 </div>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rocklin on frogzone</title>
-    <link>http://localhost:1313/tags/rocklin.html</link>
+    <link>https://frogzone.neocities.org/tags/rocklin.html</link>
     <description>Recent content in Rocklin on frogzone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rocklin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://frogzone.neocities.org/tags/rocklin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog 2</title>
-      <link>http://localhost:1313/blog/posts/blog2.html</link>
+      <link>https://frogzone.neocities.org/blog/posts/blog2.html</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/blog2.html</guid>
+      <guid>https://frogzone.neocities.org/blog/posts/blog2.html</guid>
       <description>&lt;p&gt;seeing how this looks with multiple posts&#xA;maybe need pages?&lt;/p&gt;</description>
     </item>
     <item>
       <title>first blog post</title>
-      <link>http://localhost:1313/blog/posts/2025-12-21.html</link>
+      <link>https://frogzone.neocities.org/blog/posts/2025-12-21.html</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/2025-12-21.html</guid>
+      <guid>https://frogzone.neocities.org/blog/posts/2025-12-21.html</guid>
       <description>&lt;p&gt;hello! first blog post here&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&lt;/p&gt;</description>
     </item>
   </channel>
