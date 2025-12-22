@@ -4,26 +4,25 @@ date = 2023-01-01T08:00:00-07:00
 draft = false
 +++
 {{< fz-row >}}
-{{% fz-col title="who?"%}}
-my name is willy, a mid-20s guy based in nyc who loves music, writing, food, coding...
-
-more info [HERE](/about/)
+{{% fz-col title="who?" %}}
+my name is willy. 25, living in nyc, attempting this whole thing?
 {{% /fz-col %}}
     
 {{< fz-col title="what?">}}
-this is a place for little projects, bits of writing, photos, stories from the road, recipes, and whatever else seemes enjoyable
+i feel short on space irl so i'm creating some here
 {{< /fz-col >}}
     
 {{< fz-col title="why?">}}
-the internet as we know it today is awful and i want to rekindle the love i had for it when i was younger
+nostalgia is a hell of a drug when the world feels like its crumbling a little bit
 {{< /fz-col >}}
 {{< /fz-row >}}
 
 {{< fz-row >}}
 {{% fz-col title="todo list" %}}
-1. row/column based block system (WIP)
-2. content
-3. fun doo-dads (links, guestbook, spotify integration or sumn)
+1. first proper blog post
+2. build guestbook
+3. get travelogue built
+4. utilize tags to organize recipes, writing, etc??
 {{% /fz-col %}}
 
 {{% fz-col title="recent updates" %}}
