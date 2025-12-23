@@ -96,7 +96,8 @@ p {
     margin: 0 auto;
     padding: 20px;
     background-color: #e6ffe0;
-    border: black 3px solid;
+    border: #102e00 3px solid;
+    box-shadow: 3px 3px 0 #1c4500;
 }
 
 /*HEADER*/
