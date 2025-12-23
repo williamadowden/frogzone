@@ -4,8 +4,8 @@
         <div class="fz-row">
             <div class="fz-col-wrapper">
                 <div class="fz-col">
-                    <div class="fz-col-title-wrapper">
-                        <div class="fz-col-title">
+                    <div class="fz-col-title-wrapper blog-title-wrapper">
+                        <div class="fz-col-title blog-title">
                             <h1 class="page-title">{{ .Title }}</h1>
                         </div>
                         <div class="fz-col-title-date">
@@ -14,9 +14,11 @@
                             <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
                         </div>
                     </div>
-                    <div class="fz-col-content">
+                    <div class="fz-col-content-wrapper">
+                        <div class="fz-col-content">
                         {{ .Content }}
                         {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+                        </div>
                     </div>
                 </div>
             </div>
