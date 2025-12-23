@@ -92,7 +92,7 @@ p {
 /*PAGE WRAPPER*/
 #page-wrapper {
     max-width: 800px;
-    min-width: 600px;
+    min-width: 400px;
     margin: 0 auto;
     padding: 20px;
     background-color: #e6ffe0;
@@ -175,7 +175,7 @@ p {
 
 /*FZ COLUMNS*/
 .fz-col-wrapper {
-    min-width: 180px;
+    min-width: 120px;
     display: flex;
     flex-grow: 1;
     flex-basis: 0;
