@@ -29,6 +29,7 @@ draft = false
 
 {{% fz-col title="css / frontend"%}}
 - google fonts
+- [dither effect](https://css-tricks.com/grainy-gradients/) adapted from css tricks
 {{% /fz-col %}}
 
 {{% fz-col title="3rd party tools"%}}
