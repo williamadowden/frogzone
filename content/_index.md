@@ -31,6 +31,8 @@ nostalgia is a hell of a drug when the world feels like its crumbling a little b
 {{% /fz-col %}}
 
 {{% fz-col title="recent updates" width="200px" %}}
+**2025-12-22:** added albums to music page. made css img dither effect. finally fixed block widths being all over the map
+
 **2025-12-22:** small tweaks. added fixed-height scrollable boxes.
 
 **2025-12-21:** built row/column system, formatting ideas

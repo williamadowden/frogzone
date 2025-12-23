@@ -6,7 +6,14 @@
     <div class="fz-col">
         {{ if .Get "title" }}
         <div class="fz-col-title-wrapper">
+            <div class="fz-col-title">
             {{ .Get "title" }}
+            </div>
+            {{ if .Get "subtitle" }}
+            <div class="fz-col-subtitle">
+                {{ .Get "subtitle" }}
+            </div>
+            {{ end }}
         </div>
         {{ end }}
         <div class="fz-col-content-wrapper"

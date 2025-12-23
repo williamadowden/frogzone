@@ -154,7 +154,7 @@ p {
 /*FZ ROWS*/
 .fz-row-wrapper {
     width: 100%;
-    margin-block-end: 1em;
+    /*margin-block-end: 1em;*/
     /*display: table-row;*/
 }
 
@@ -176,8 +176,9 @@ p {
 /*FZ COLUMNS*/
 .fz-col-wrapper {
     min-width: 180px;
-    /*display: flex;*/
+    display: flex;
     flex-grow: 1;
+    flex-basis: 0;
     /*padding: 10px;*/
 }
 
@@ -192,15 +193,26 @@ p {
     border-bottom: 1px solid #000;
     padding: 5px 10px;
     background-color: #d0ffbf;
-    display: flex;
 }
 
 .fz-col-title {
     font-weight: 800;
-    font-size: large;
+    font-size: 1.25em;
     width: 100%;
 }
 
+.fz-col-subtitle {
+    font-weight: 400;
+    font-style: italic;
+}
+
+.blog-title-wrapper {
+    display: flex;
+}
+
+.blog-title {
+    font-size: 1.5em;
+}
 .fz-col-content-wrapper {
     padding: 10px;
 }
@@ -232,4 +244,17 @@ p {
     gap: 10px;
     list-style: none;
     padding: 0;
+}
+
+/*music page*/
+.album-cover-img {
+    width: 100%;
+}
+
+.noise {
+    background: url('/svg/dither.svg'); contrast(170%) brightness(1000%);
+    line-height: 0;
+}
+.overlay {
+    mix-blend-mode: multiply;
 }
