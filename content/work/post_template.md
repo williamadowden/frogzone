@@ -1,5 +1,5 @@
 +++
-title = 'post template'
+title = 'work post template'
 date = 2025-12-21
 draft = false
 tags = ['template']
@@ -12,7 +12,7 @@ author = "willy"
 city = "rocklin"
 state = "california"
 country = "usa"
-travelogue = true
+blog = "work"
 +++
 
 blog post template with future compatability to be included in travelogue

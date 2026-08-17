@@ -3,13 +3,16 @@
     "tags": [
       "a",
       "body",
+      "br",
       "div",
       "footer",
       "h1",
       "h2",
+      "h3",
       "head",
       "header",
       "html",
+      "i",
       "img",
       "li",
       "link",
@@ -52,11 +55,9 @@
       "wrapper"
     ],
     "ids": [
-      "frogzone-logo",
       "fz-logo",
       "nav",
-      "page-wrapper",
-      "todo-list"
+      "page-wrapper"
     ]
   }
 }

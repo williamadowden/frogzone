@@ -2,6 +2,9 @@
 title = 'music'
 date = 2025-12-20
 draft = false
+
+[build]
+list = false
 +++
 inspired by [altalenae](https://altalenae.neocities.org/)'s music page, here are a select few albums that have been on repeat for me
 

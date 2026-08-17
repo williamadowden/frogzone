@@ -3,7 +3,7 @@
 
   {{ .Content }}
 
-  {{ range site.RegularPages }}
+  {{ range where .Site.RegularPages "Params.blog" .Title }}
     <div class="fz-row-wrapper">
       <div class="fz-row">
         <div class="fz-col-wrapper">

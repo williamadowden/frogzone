@@ -2,11 +2,12 @@
 
 /*logos and fonts*/
 .fz-logo-font {
-    font-family: "Jacquard 12", system-ui;
+    /*font-family: "Jacquard 12", system-ui;*/
+    font-family: "Times New Roman", serif;
 }
 
 .page-title {
-    font-family: "Jacquard 12", system-ui;
+    font-family: "Times New Roman", serif;
     font-weight: 400;
     font-size: 2.5rem;
     font-style: normal;
@@ -21,35 +22,35 @@
 }
 
 /* Track */
-::-webkit-scrollbar-track {
-    background: #d0ffbf;
-    border: solid #102e00;
-    border-width: 0 0 0 1px;
-}
+/*::-webkit-scrollbar-track {*/
+/*    background: #d0ffbf;*/
+/*    border: solid #102e00;*/
+/*    border-width: 0 0 0 1px;*/
+/*}*/
 
-/* Handle */
-::-webkit-scrollbar-thumb {
-    background: #98ef78;
-    border-left: 1px solid #102e00;
-}
+/*!* Handle *!*/
+/*::-webkit-scrollbar-thumb {*/
+/*    background: #98ef78;*/
+/*    border-left: 1px solid #102e00;*/
+/*}*/
 
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-    background: #76b85e;
-}
+/*!* Handle on hover *!*/
+/*::-webkit-scrollbar-thumb:hover {*/
+/*    background: #76b85e;*/
+/*}*/
 
-::-webkit-scrollbar-thumb:active {
-    background: #467335;
-}
+/*::-webkit-scrollbar-thumb:active {*/
+/*    background: #467335;*/
+/*}*/
 
 /*BASIC FORMATTING*/
 body {
     color: #222;
-    font-family: "DM Mono", monospace;
+    font-family: "Times New Roman", serif;
     font-size: .8rem;
     line-height: 1.5;
     margin: 1rem;
-    background-image: url("/img/bg.jpg");
+    /*background-image: url("/img/bg.jpg");*/
     background-attachment: fixed;
 }
 
@@ -65,8 +66,8 @@ footer {
     font-size: 0.8rem;
 }
 
-a {
-    color: #007316;
+a:link, a:visited {
+    color: #002ec1;
     text-decoration: underline;
 }
 
@@ -95,14 +96,14 @@ p {
     min-width: 400px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #e6ffe0;
-    border: #102e00 3px solid;
-    box-shadow: 3px 3px 0 #1c4500;
+    background-color: #ffffff;
+    border: #000000 3px solid;
+    box-shadow: 3px 3px 0 #000000;
 }
 
 /*HEADER*/
 #fz-logo {
-    font-family: "Jacquard 12", system-ui;
+    font-family: "Times New Roman", serif;
     font-weight: 400;
     font-size: 3rem;
     font-style: normal;
@@ -136,17 +137,17 @@ p {
 #nav ul li a {
     background-color: #fff;
     padding: 10px;
-    border: 1px #102e00 solid;
-    box-shadow: 3px 3px 0 #1c4500;
+    border: 1px #000000 solid;
+    box-shadow: 3px 3px 0 #000000;
 }
 
 #nav ul li a:hover {
-    background-color: #d0ffbf;
+    background-color: #ececec;
 }
 
 #nav ul li a.active {
-    background-color: #467335;
-    color: #fff;
+    background-color: #e3e3e3;
+    color: #9600d1;
 }
 
 /*END NAV*/
@@ -185,15 +186,15 @@ p {
 
 .fz-col {
     background-color: #fff;
-    box-shadow: 3px 3px 0 #1c4500;
-    border: 2px solid #102e00;
+    box-shadow: 3px 3px 0 #000000;
+    border: 2px solid #000000;
     width: 100%;
 }
 
 .fz-col-title-wrapper {
     border-bottom: 1px solid #000;
     padding: 5px 10px;
-    background-color: #d0ffbf;
+    background-color: #f1f1f1;
 }
 
 .fz-col-title {
