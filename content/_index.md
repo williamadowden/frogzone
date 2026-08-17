@@ -14,7 +14,7 @@ draft = false
 
 <i>The first batch of travel and work blogs will be coming in the next few weeks, once the next round of adventures begins.</i>
 
-<img src="img/me.JPEG" alt="Me" width="500px">
+<img src="img/me.JPEG" alt="Me" width="30%">
 
 
 photo by Mistine in at the Music Box in SD, CA
