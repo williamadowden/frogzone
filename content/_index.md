@@ -17,7 +17,7 @@ draft = false
 <img src="img/me.JPEG" alt="Me" width="60%">
 
 
-photo by Mistine in at the Music Box in SD, CA
+photo by Mistine at the Music Box in SD, CA
 
 </div>
 
